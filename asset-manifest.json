@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-calculator-compoundInterest/static/css/main.a5b0e245.css",
+    "main.js": "/react-calculator-compoundInterest/static/js/main.acbb55aa.js",
+    "static/js/787.4c09f030.chunk.js": "/react-calculator-compoundInterest/static/js/787.4c09f030.chunk.js",
+    "index.html": "/react-calculator-compoundInterest/index.html",
+    "main.a5b0e245.css.map": "/react-calculator-compoundInterest/static/css/main.a5b0e245.css.map",
+    "main.acbb55aa.js.map": "/react-calculator-compoundInterest/static/js/main.acbb55aa.js.map",
+    "787.4c09f030.chunk.js.map": "/react-calculator-compoundInterest/static/js/787.4c09f030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b0e245.css",
+    "static/js/main.acbb55aa.js"
+  ]
+}
